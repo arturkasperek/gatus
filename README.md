@@ -110,7 +110,7 @@ Have any feedback or questions? [Create a discussion](https://github.com/TwiN/ga
   - [Installing as binary](#installing-as-binary)
   - [High level design overview](#high-level-design-overview)
 - [Troubleshooting](#troubleshooting)
-  - [How to solve `Request Header Fields Too Large` error?](#sending-a-graphql-request)
+  - [How to solve `Request Header Fields Too Large` error?](#how-to-solve-request-header-fields-too-large-error)
 - [Sponsors](#sponsors)
 
 
